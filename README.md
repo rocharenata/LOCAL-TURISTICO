@@ -7,4 +7,4 @@ A estilização do site é feita com CSS, onde são aplicadas diversas personali
 
 Em resumo, o projeto combina uma estrutura HTML funcional com estilização CSS eficaz para criar um site sobre um local turístico que é informativo, visualmente apelativo e fácil de navegar.
 
-Voce pode conferri o resultado desse projeto clicando no link: https://local-turistico-opal.vercel.app/
+Voce pode conferir o resultado desse projeto clicando no link: https://local-turistico-opal.vercel.app/
