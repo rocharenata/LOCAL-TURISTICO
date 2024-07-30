@@ -5,6 +5,7 @@ justify-content: flex-end;
 align-items: center;
 gap: 65px;
 align-self: stretch;
+ 
 
 }
 
@@ -16,6 +17,7 @@ font-style: normal;
 font-weight: bold;
 line-height: 21,79px;
 text-transform: uppercase;
+padding-bottom: 0;
  
   
 }
@@ -28,6 +30,7 @@ text-transform: uppercase;
  .container {
     max-width: 1000px;
     margin: auto;
+    padding-top: 64px;
   }
   
 
@@ -39,7 +42,7 @@ h1, h2,h3  {
 
 h1 {
     font-size: 36px;
-    line-height: 49,03px;
+    line-height: 45,58px;
     font-weight: 700;
     
      
@@ -110,6 +113,8 @@ width: 100%;
 
   .great-for {
     font-family: "Open Sans";
+    color:#333;
+    padding-bottom: 0;
   }
    
   .couples {
@@ -125,6 +130,10 @@ width: 100%;
   .budget {
     font-family: "Open Sans";
     color: #E95E10;
+     }
+
+     .historia {
+      color:blue
      }
 
   footer {
